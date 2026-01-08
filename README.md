@@ -50,3 +50,19 @@ Database: SQLite (default)
 Authentication: Django Auth System
 
 ORM: Django ORM
+
+
+
+## 📂 Project Structure
+project/
+│
+├── app/
+│   ├── views.py
+│   ├── models.py
+│   ├── forms.py
+│   ├── templates/
+│   │   └── app/
+│   └── static/
+│
+├── manage.py
+└── requirements.txt
