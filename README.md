@@ -71,36 +71,36 @@ project/
 
 ## ⚙️ Installation
 
-Clone the repository
+# Clone the repository
 
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
 
-Create virtual environment
+# Create virtual environment
 
 python -m venv env
 source env/bin/activate   # Mac/Linux
 env\Scripts\activate      # Windows
 
 
-Install dependencies
+# Install dependencies
 
 pip install -r requirements.txt
 
 
-Run migrations
+# Run migrations
 
 python manage.py makemigrations
 python manage.py migrate
 
 
-Create superuser
+# Create superuser
 
 python manage.py createsuperuser
 
 
-Run server
+# Run server
 
 python manage.py runserver
 
