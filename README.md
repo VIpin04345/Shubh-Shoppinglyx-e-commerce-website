@@ -54,6 +54,7 @@ ORM: Django ORM
 
 
 ## 📂 Project Structure
+
 project/
 │
 ├── app/
